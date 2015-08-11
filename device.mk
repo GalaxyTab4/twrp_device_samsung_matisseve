@@ -1,0 +1,2 @@
+ADDITIONAL_DEFAULT_PROPERTIES += \
+    ro.adb.secure=0
